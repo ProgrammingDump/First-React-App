@@ -7,16 +7,19 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         Hello World ^^
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://sherdil-portfolio.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Here's my portfolio!
         </a>
+        <p>
+        What does this spinny thing do?
+        </p>
       </header>
     </div>
   );
